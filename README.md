@@ -13,3 +13,5 @@ https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c4
 https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency/resource/ed0d1550-c300-4114-865c-82dc7c23235b - this data set includes data on tax delinquency in Allegheny County including most of Pittsburgh's neighborhoods, although some did not have any instances of tax delinquency according to the data.
 
 This is our final project for Big Ideas in Computing and Information, where we use Python to determine what the best neighborhood of Pittsburgh is based on whatever metrics we can find data to support.
+
+The final iteration of this project, after combining all of our individual work, can be found in final_project.ipynb. 11-18-2024 (1).ipynb is the presentation draft for our project, not the final draft.
